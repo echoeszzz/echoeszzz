@@ -6,7 +6,6 @@
 * [Telegram](https://t.me/echooQQ)
 
 # My stats
-![echoeszzz's GitHub stats](https://github-stats-iamoniel1.vercel.app/api?username=echoeszzz&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&include_all_commits=true)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%2049%20mins-blue)
