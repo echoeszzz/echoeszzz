@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+**Contact me:**
+
+* [VK](https://vk.com/qqqqqqqqqqqqqqqgg)
+* [Telegram](https://t.me/echooQQ)
 
 [![echoeszzz GitHub stats](https://github-readme-stats.vercel.app/api?username=echoeszzz)](https://github.com/anuraghazra/github-readme-stats)
 <!--
