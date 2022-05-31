@@ -10,13 +10,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-125-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-128-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-40%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 27 Contributions in the Year 2022
+> 🏆 0 Contributions in the Year 2022
  > 
 > 📦 2.8 kB Used in GitHub's Storage 
  > 
@@ -53,11 +53,11 @@ Sunday       9 commits      ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C++                      12 hrs 38 mins      █████████████████░░░░░░░░   70.12% 
-ObjectiveC               2 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.04% 
-Python                   1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.55% 
-Java                     26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.46% 
-CMake                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.82%
+C++                      12 hrs 5 mins       █████████████████░░░░░░░░   69.72% 
+ObjectiveC               2 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.58% 
+Python                   1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.23% 
+Java                     26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.55% 
+CMake                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.85%
 
 ```
 
@@ -72,5 +72,5 @@ Python                   4 repos             ████░░░░░░░�
 
 
 
- Last Updated on 30/05/2022 18:47:53 UTC
+ Last Updated on 31/05/2022 18:47:49 UTC
 <!--END_SECTION:waka-->
