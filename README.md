@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-# Contact me:
-
-* [VK](https://vk.com/qqqqqqqqqqqqqqqgg)
-* [Telegram](https://t.me/echooQQ)
-
 # My stats
 
 <!--START_SECTION:waka-->
