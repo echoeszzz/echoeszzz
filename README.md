@@ -3,9 +3,9 @@
 # My stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-55%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-38%20Thousand%20lines%20of%20code-blue)
 
@@ -48,11 +48,10 @@ Sunday       6 commits      █░░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C++                      2 hrs 2 mins        █████████████████░░░░░░░░   71.03% 
-ObjectiveC               38 mins             █████░░░░░░░░░░░░░░░░░░░░   22.42% 
-Python                   6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.89% 
-Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.62% 
-CMake                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05%
+C++                      2 hrs 12 mins       ██████████████████░░░░░░░   74.41% 
+ObjectiveC               40 mins             █████░░░░░░░░░░░░░░░░░░░░   22.96% 
+Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.52% 
+CMake                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.1%
 
 ```
 
@@ -67,5 +66,5 @@ Python                   2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 14/06/2022 18:46:49 UTC
+ Last Updated on 15/06/2022 18:45:14 UTC
 <!--END_SECTION:waka-->
