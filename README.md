@@ -11,7 +11,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 88 Contributions in the Year 2022
+> 🏆 0 Contributions in the Year 2022
  > 
 > 📦 1.2 kB Used in GitHub's Storage 
  > 
@@ -48,7 +48,9 @@ Sunday       6 commits      █░░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Rust                     43 mins             ██████████████████████░░░   88.11% 
+TOML                     5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.84% 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05%
 
 ```
 
@@ -63,5 +65,5 @@ Python                   2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 22/08/2022 18:46:57 UTC
+ Last Updated on 23/08/2022 18:46:12 UTC
 <!--END_SECTION:waka-->
