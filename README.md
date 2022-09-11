@@ -3,7 +3,7 @@
 # My stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-86%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-86%20hrs%2051%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -11,7 +11,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 89 Contributions in the Year 2022
+> 🏆 90 Contributions in the Year 2022
  > 
 > 📦 1.3 kB Used in GitHub's Storage 
  > 
@@ -48,11 +48,8 @@ Sunday       6 commits      █░░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Java                     4 hrs 47 mins       █████████████████████░░░░   86.4% 
-C++                      36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.91% 
-Markdown                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.34% 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.28% 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
+Java                     5 hrs 33 mins       ████████████████████████░   97.72% 
+Markdown                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.28%
 
 ```
 
@@ -67,5 +64,5 @@ Python                   2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 10/09/2022 18:50:00 UTC
+ Last Updated on 11/09/2022 18:49:13 UTC
 <!--END_SECTION:waka-->
