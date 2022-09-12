@@ -3,7 +3,7 @@
 # My stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-86%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-86%20hrs%2056%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -48,8 +48,9 @@ Sunday       6 commits      █░░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Java                     5 hrs 33 mins       ████████████████████████░   97.72% 
-Markdown                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.28%
+Java                     5 hrs 37 mins       ████████████████████████░   97.55% 
+Markdown                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.34% 
+CLASS                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.11%
 
 ```
 
@@ -64,5 +65,5 @@ Python                   2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 11/09/2022 18:49:13 UTC
+ Last Updated on 12/09/2022 18:52:51 UTC
 <!--END_SECTION:waka-->
