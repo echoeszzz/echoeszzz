@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-103%20hrs%2026%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-58%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 131 Contributions in the Year 2022
+> 🏆 132 Contributions in the Year 2022
  > 
 > 📦 9.6 kB Used in GitHub's Storage 
  > 
@@ -48,11 +48,7 @@ Sunday       8 commits      ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C++                      43 mins             ████████████████████░░░░░   82.51% 
-CMake                    6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.84% 
-Java                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.93% 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.61% 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.1%
+No Activity Tracked This Week
 
 ```
 
@@ -68,5 +64,5 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/10/2022 18:52:34 UTC
+ Last Updated on 17/10/2022 19:09:42 UTC
 <!--END_SECTION:waka-->
